@@ -14,8 +14,9 @@ I'll use this repository to refine ideas that will in the future be turned into 
 
 - [log](log) - notes about this repo, how it develops and grows (or otherwise)
 - [open](open) - first definitions about the project
-   - [vision](open/vision.md) - vision statement
-   - [canvas](open/canvas.md) - open canvas
+   - [vision](open/vision.md)
+   - [canvas](open/canvas.md)
+   - [roadmap](open/roadmap.md)
 
 ## Background
 
