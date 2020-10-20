@@ -1,10 +1,10 @@
-# Waste Prevention
+# Working Open
 
 Hi! I am Felipe Schmidt Fonseca, a Marie Curie Early Stage Researcher and PhD Candidate at [Northumbria University](https://www.northumbria.ac.uk/). [My research](https://is.efeefe.me/opendott) about waste prevention in smart cities is part of the [OpenDoTT project](https://opendott.org) and I'm moving to Berlin with another four colleagues to spend a period in the [Mozilla Foundation](https://foundation.mozilla.org/).
 
 In the first year of research we were based in Dundee, Scotland, and worked on a design research approach to understand our different topics of investigation - all of them exploring trust in the internet of things through open design. During the summer we created concept ideas based on our research studies. Mine are [here](https://is.efeefe.me/opendott).
 
-At the moment we are attending training in Internet Health and [open leadership](https://mozilla.github.io/open-leadership-training-series/). In the next phases we'll be incorporating ideas of Internet Health and prototyping some of those concepts.
+In October we attended training in Internet Health and [open leadership](https://mozilla.github.io/open-leadership-training-series/). In the next phases we'll be incorporating ideas of Internet Health and prototyping some of our concepts.
 
 ## This repository
 
@@ -17,6 +17,7 @@ I'll use this repository to refine ideas that will in the future be turned into 
    - [vision](open/vision.md)
    - [canvas](open/canvas.md)
    - [roadmap](open/roadmap.md)
+- [spiral](spiral) - a meta-discussion on openness and its shapes
 
 ## Background
 
