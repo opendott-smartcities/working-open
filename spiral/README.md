@@ -1,6 +1,6 @@
 # Spiral #1
 
-//Berlin, 20.10.20//
+__Berlin, 20.10.20__
 
 My first note: I lost track of how many projects I must have started with a couple loose paragraphs being published in the open and later heavily edited by myself and others. This very file may become another one of those. I start it after being through a training module on Internet Health and Open Leadership offered by the Mozilla Foundation as part of my (and my colleagues') PhD at Northumbria University.
 
