@@ -21,3 +21,8 @@ I'll use this repository to refine ideas that will in the future be turned into 
 ## Background
 
 This repository was created in October 2020 during the Internet Health Training offered to the [OpenDoTT](https://opendott.org) fellows by our host in Berlin, [Mozilla Foundation](http://foundation.mozilla.org). I will document here parts of my research on smart cities. I'm also keeping a [research blog](https://is.efeefe.me/opendott) and a [list of links](https://links.efeefe.me/?searchtags=opendott).
+
+
+## Contributing
+
+Feel free to fork this repository and PR with your contributions. I may also work on alternative ways to participate in the coming weeks, if it makes sense.
