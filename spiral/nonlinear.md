@@ -83,12 +83,70 @@ What if we think of open not in opposition to closed but to strictly planned? "O
 A friend and colleague in Brazil - an anthropologist - called my attention once to the way we were trying to push the digital culture programme in the context of Pontos de Cultura. He told me: "communities don't usually work with the idea of a project, with a clear beginning and expected end point". Nature is cyclic and so is life. Years later I found that echoing in the idea of 'lean startup', but as mentioned above I don't think it is a true similarity. Instead of working open-ended and in line with the cyclic nature of life, the lean startup disguises part of its development as a cycle only to capture as much feedback as possible into its construction and be able to leverage a power unbalance to generate extreme profit.
 
 WEIRD - western, educated, industrialised, rich, democratic (plus: white, male). Democratic of sorts, that is. Incorporates the projectism perspective, the linear point of view.  
- 
+
+I was lucky...  stop. Part of acknowledging my own privilege is realising that making use of luck is not for everyone - seizing opportunities requires a level of comfort and reliability in one's own survival, which is a privilege indeed. In any case, I was lucky and privileged and made use of the opportunities I had to be part of a thriving moment in Brazil. I dedicated some years of my adult life to help develop what we then identified as Brazilian Digital Culture. We had the government on our side, for a while. In recent years however things turned back to how they were before (and more recently reverted full steam to levels below civilisation).
+
+As resources to more experimental, open ended and common good oriented initiatives were meagering, I wanted to find alternatives to keep doing what I thought was important work for the communities I was engaged with. It seemed unfair that so many startups made money out of making rich people even richer (whilst destroying the bases of public services along the way), and I had to work for capitalistic enterprises to make ends meet and keep debt under control (which I did not, but let's leave it as that). 
+
+At some point I decided to read, watch and listen to everything I could about startups and canvasses and MVPs and prototypes and how to adapt them to sustainable and socially aware initiatives. And I tried to follow that way of doing things, trying to increase my level of tolerance in engaging with corporate responsability types and impact investors and other greenwashers. And I should say, I failed miserably at the exercise of coming up with an impactful idea, a disruptive concept, something that I should hold on to and insist and convince people that would change the world.
+
+You see, I didn't want to change the world. Not all of it, at least. My objective was perhaps too modest. Only it wasn't. I wanted to find ways to allow all the socio-environmental innovators who were drawn to [Ubatuba](../ubatuba.md) to find ways to keep doing what they do without having to sell themselves to whoever paid for their time. I still believe that place could become an international reference in terms of socio-environmental innovation. But I found no way to channel resources into making that happen, and felt like a loser for that. That way of doing things - the 'lean' way - was just not my way. Which is itself lean, but in other sense. So, I failed. Not the first time. In every ten projects I have done, I'd say one was a clear success, about three or four are relative successes and the other half goes from minor fails to total waste of time. But here it was clear the inadequacy of the format to my way of doing.
+
+I tend to start with relations, which may evolve to a community or not. What is a community to me, one may ask? It is a mix of commonality and difference. There's no community without commonality, of course. But there's no real community without difference. Difference is not the same as diversity, by the way.
+
+Does it make sense in English to talk of "differences" as disagreements? I believe so.
+
+I never understood one hundred percent of Simondon, but a Brazilian colleague has helped me see through parts of his work, years ago. In particular, it may be interesting to think of individuation, and what takes place before, how pre-individuated communities should establish their ties.
+
+Connecting again to the text Jamie King contributed to the publication "In the Shade of the Commons" (which also has the excellent "A Letter to the Commons"). King's text is "On the plane of the para-constituted: towards a grammar of gang power". Instead of thinking of pre-constituted groups and post-constituted organisations, he discusses the idea of para-constituted networks that operate both as loose groups and established organisations. 
+
+Release early, release often. Re-reading The Cathedral and the Bazaar. Eric Raymond, white guy, WEIRD, blind to gender and ethnicity. Online discussions are blind to that. But not. Tone can be felt over text. Familiarity with language, all the same. We've been there - Meta:Fora and the early MetaReciclagem were based on text (mailing list, wiki) and took for granted that people knew how to use that powerful tool, written language.
+
+The importance of being familiar with the language. When I was in Delhi, I asked how I could get to Nehru's place, what I imagined to be a similar place to Santa If in Sao Paulo. That was before google maps, smartphones and affordable GPS with public transport data. Someone told me: "you should not go there without a native to help you negotiate". I took their advice and gave up. Not being a local makes you feel impotent. The same applies to language.
+
+Impotence is also part of the Letter to the Commons. What do you mean, you feel entitled to claim this creative work is "yours"? How about the centuries of intellectual accumulation you naturally build upon?
+
+My way of doing is not about completing a predefined, linear, set of tasks. Rather, I reconfigure the whole thing at every step.
+
+Open Science <-> Common Science. Lafuente -> Ubatuba.
+
+Meta:Fora - tools easier than objectives.
+
+ - Avoid jargon
+ - Intentional self-sabotage of leadership
+ - Combined leadership (no followers)
+
+Mr. Robot vs. Rose:
+
+ - I am a leader
+ - Then where are your followers?
+
+A game of disguise. Wear the hat. Pirate Flag (Hakim Bey, I believe).
+
+Culture of Openness geared towards building commons.
+
+ - Inclusion
+ - diversity
+ - Sustainabilityy
+ - Interdisciplinary production
+
+(are these mine?)
+
+Culture of Openness from the onset. Reorganising the very processes of creation, production, releasing and circulating. Parallel to common science, again.
+
+Cathedral and Bazaar: software starts itching a developer (wow this creative illuminist epic genius, once again bringing promethean light to the world). Great programmers know what to rewrite and reuse. All areas can have those people, not only coding. Seeing users as co-developers. How about the power balance there? Change the focus! Beta-testers. Myth of creative genius, a benevolent one only.
+
+In the Shade of the Commons. Delhi Declaration for a new context for new media. Declarations, statements. I've been many times to events during which participants wanted to write a comprehensive and bold statement. I believe those are indeeed useful, but never have much patience to actually read them. Not relevant to me. I'm usually more interested in making acquaintances and getting them to help me understand better the whole thing we're all immersed in. Even by only opposing. I was once in a very high level conference that in general terms was about access to technology. A succcessful activist from an African country listened to me talking about MetaReciclagem and spent some time trying to convince me that we should incorporate, become an organisation. Only then, she said, would we be able to promote change and influence policy. 
+
+My take however was that we should not become an organisation precisely because we were already influencing government decision from the inside. There were public servants who were members of our open network, and a very interesting dynamics happened. As activists, some of us felt the very real power to influence discussions and decisions made by the government. On the other hand, those who were inside public institutions found a timely and fast aavenue to help themselves understand better the implications of government decisions, and generate ideas without the need to go the usual way - open a call, hire consultants, wait for months and finally get their hands on something that was outdated if not outright wrong.
+
+
+
 ### TODO
 
  - Create file science.md
   - Open science notebooks. Open brainstorm. Not thinking of having a community yet.
-
+ - Create file ubatuba.md (why? because.)
 ### To read
 
  - Primitive accumulation
