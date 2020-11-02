@@ -14,7 +14,7 @@ Wait, there I go widening the narrative and inserting lots of personal stories t
 
 As I mentioned, that first PC I had was a 5x86 with 4Mb of RAM and a clock speed of 133Mhz. I have no idea what the hard drive size was. The computer was to be paid in monthly installments. If [this](https://cosmos.bluesoft.com.br/tabelas/tabela-de-salarios-minimos) is right (and I think it is), the Brazilian minimum wage by then was 100 reais. Now look at this: I had the immense privilege in such an unequal place as Brazil of being in a family that could afford to buy an equipment that cost a lot of money. I'm not sure of the figures, but if I'm not mistaken the price of that computer should be R$ 999 for those who could pay upfront. With our generous (for the banks, of course) interest rates, the total cost of buying in installments was considerably higher. I wouldn't be that off-mark if I said we were paying 12 installments of 120 reais. Hence, my first computer must have cost 1,440 reais - or the equivalent of 14 months of salary for a worker under full time employment.
 
-This laptop I'm typing into right now is still very expensive in Brazil due to many factors: the great devaluation of the brazilian Real in the last year, import duties and the cost of intermediaries. Something around R$ 15,000 these days. The minimum wage in 2020 is something around 1,000. Which means someone working full time in unskilled jobs will likely never have access to this fast machine with a crappy keyboard. On the other hand, these days there are many affordable alternatives to have access to information processing equipment. 
+This laptop I'm typing into right now is still very expensive in Brazil due to many factors: the great devaluation of the brazilian Real in the last year, import duties and the cost of intermediaries. Something around R$ 15,000 these days. The minimum wage in 2020 is something around 1,000. Which means someone working full time in unskilled jobs will likely never have access to this fast machine with a crappy keyboard. On the other hand, these days there are many affordable alternatives to have access to information processing equipment.
 
 
 
@@ -74,11 +74,11 @@ Co-ownership (me: multistakeholder platcoops).
 
 Antagonism analysis: what is the opposite of 'open'? 'Closed'?
 
- - Founding story of digital commons: enclosure of pasture ('commons'). Am I right to use the expression 'primitive accumulation' (add to reading list)? Modern sense of private property, in line with the development of capitalism. Forced extension of that to the idea of intellectual property when corporate broadcast media established its ties with political power. Then another attempt to extend intellectual property to the internet, conflicting with its non-adversarial nature. 
+ - Founding story of digital commons: enclosure of pasture ('commons'). Am I right to use the expression 'primitive accumulation' (add to reading list)? Modern sense of private property, in line with the development of capitalism. Forced extension of that to the idea of intellectual property when corporate broadcast media established its ties with political power. Then another attempt to extend intellectual property to the internet, conflicting with its non-adversarial nature.
 
 What if we start from another path? (oops, I'm detouring from my notes, leave this line for later)
 
-What if we think of open not in opposition to closed but to strictly planned? "Open-ended". 
+What if we think of open not in opposition to closed but to strictly planned? "Open-ended".
 
 A friend and colleague in Brazil - an anthropologist - called my attention once to the way we were trying to push the digital culture programme in the context of Pontos de Cultura. He told me: "communities don't usually work with the idea of a project, with a clear beginning and expected end point". Nature is cyclic and so is life. Years later I found that echoing in the idea of 'lean startup', but as mentioned above I don't think it is a true similarity. Instead of working open-ended and in line with the cyclic nature of life, the lean startup disguises part of its development as a cycle only to capture as much feedback as possible into its construction and be able to leverage a power unbalance to generate extreme profit.
 
@@ -86,7 +86,7 @@ WEIRD - western, educated, industrialised, rich, democratic (plus: white, male).
 
 I was lucky...  stop. Part of acknowledging my own privilege is realising that making use of luck is not for everyone - seizing opportunities requires a level of comfort and reliability in one's own survival, which is a privilege indeed. In any case, I was lucky and privileged and made use of the opportunities I had to be part of a thriving moment in Brazil. I dedicated some years of my adult life to help develop what we then identified as Brazilian Digital Culture. We had the government on our side, for a while. In recent years however things turned back to how they were before (and more recently reverted full steam to levels below civilisation).
 
-As resources to more experimental, open ended and common good oriented initiatives were meagering, I wanted to find alternatives to keep doing what I thought was important work for the communities I was engaged with. It seemed unfair that so many startups made money out of making rich people even richer (whilst destroying the bases of public services along the way), and I had to work for capitalistic enterprises to make ends meet and keep debt under control (which I did not, but let's leave it as that). 
+As resources to more experimental, open ended and common good oriented initiatives were meagering, I wanted to find alternatives to keep doing what I thought was important work for the communities I was engaged with. It seemed unfair that so many startups made money out of making rich people even richer (whilst destroying the bases of public services along the way), and I had to work for capitalistic enterprises to make ends meet and keep debt under control (which I did not, but let's leave it as that).
 
 At some point I decided to read, watch and listen to everything I could about startups and canvasses and MVPs and prototypes and how to adapt them to sustainable and socially aware initiatives. And I tried to follow that way of doing things, trying to increase my level of tolerance in engaging with corporate responsability types and impact investors and other greenwashers. And I should say, I failed miserably at the exercise of coming up with an impactful idea, a disruptive concept, something that I should hold on to and insist and convince people that would change the world.
 
@@ -98,7 +98,7 @@ Does it make sense in English to talk of "differences" as disagreements? I belie
 
 I never understood one hundred percent of Simondon, but a Brazilian colleague has helped me see through parts of his work, years ago. In particular, it may be interesting to think of individuation, and what takes place before, how pre-individuated communities should establish their ties.
 
-Connecting again to the text Jamie King contributed to the publication "In the Shade of the Commons" (which also has the excellent "A Letter to the Commons"). King's text is "On the plane of the para-constituted: towards a grammar of gang power". Instead of thinking of pre-constituted groups and post-constituted organisations, he discusses the idea of para-constituted networks that operate both as loose groups and established organisations. 
+Connecting again to the text Jamie King contributed to the publication "In the Shade of the Commons" (which also has the excellent "A Letter to the Commons"). King's text is "On the plane of the para-constituted: towards a grammar of gang power". Instead of thinking of pre-constituted groups and post-constituted organisations, he discusses the idea of para-constituted networks that operate both as loose groups and established organisations.
 
 Release early, release often. Re-reading The Cathedral and the Bazaar. Eric Raymond, white guy, WEIRD, blind to gender and ethnicity. Online discussions are blind to that. But not. Tone can be felt over text. Familiarity with language, all the same. We've been there - Meta:Fora and the early MetaReciclagem were based on text (mailing list, wiki) and took for granted that people knew how to use that powerful tool, written language.
 
@@ -136,10 +136,125 @@ Culture of Openness from the onset. Reorganising the very processes of creation,
 
 Cathedral and Bazaar: software starts itching a developer (wow this creative illuminist epic genius, once again bringing promethean light to the world). Great programmers know what to rewrite and reuse. All areas can have those people, not only coding. Seeing users as co-developers. How about the power balance there? Change the focus! Beta-testers. Myth of creative genius, a benevolent one only.
 
-In the Shade of the Commons. Delhi Declaration for a new context for new media. Declarations, statements. I've been many times to events during which participants wanted to write a comprehensive and bold statement. I believe those are indeeed useful, but never have much patience to actually read them. Not relevant to me. I'm usually more interested in making acquaintances and getting them to help me understand better the whole thing we're all immersed in. Even by only opposing. I was once in a very high level conference that in general terms was about access to technology. A succcessful activist from an African country listened to me talking about MetaReciclagem and spent some time trying to convince me that we should incorporate, become an organisation. Only then, she said, would we be able to promote change and influence policy. 
+In the Shade of the Commons. Distinctions between producers / users; practitioners / audiences; writers / readers. Porosity.
+
+Delhi Declaration for a new context for new media. Declarations, statements. I've been many times to events during which participants wanted to write a comprehensive and bold statement. I believe those are indeeed useful, but never have much patience to actually read them. Not relevant to me. I'm usually more interested in making acquaintances and getting them to help me understand better the whole thing we're all immersed in. Even by only opposing. I was once in a very high level conference that in general terms was about access to technology. A succcessful activist from an African country listened to me talking about MetaReciclagem and spent some time trying to convince me that we should incorporate, become an organisation. Only then, she said, would we be able to promote change and influence policy.
 
 My take however was that we should not become an organisation precisely because we were already influencing government decision from the inside. There were public servants who were members of our open network, and a very interesting dynamics happened. As activists, some of us felt the very real power to influence discussions and decisions made by the government. On the other hand, those who were inside public institutions found a timely and fast aavenue to help themselves understand better the implications of government decisions, and generate ideas without the need to go the usual way - open a call, hire consultants, wait for months and finally get their hands on something that was outdated if not outright wrong.
 
+A Letter to the Commons - CC never leavers the circuit od property, even when shared.
+
+So much to translate and exchange from our experiences in Brazil.
+
+Jamie King, on the plane of the paraconstituted. Gangs produce temporary biindings, ideas and motif. An array of purposes, identities and projects that produce singularities.
+
+Gangs exist inevitably in every organisation. Disaggregation + reaggregation.
+
+My own discomfort in the first international seminars I attended: watching white educated guys using their English language skills while I could only babble.
+
+ANother path: Molecular Red.
+
+References I used in the past. NEd Rossiter (+ Lovink), organised networks. Cibernetics and numerical control.
+
+----
+
+Day 3 - my notes.
+
+5 pillars of internet health.
+
+Licensing - Por licenças mais poéticas. Traduzir?
+
+Community - differences. Lovink, [Notworking](https://monoskop.org/images/f/fd/Lovink_Geert_The_Principle_of_Notworking_Concepts_in_Critical_Internet_Culture_2005.pdf).
+
+IoT builds on top of open standards. Land grabs (again, primitive accumulation?)
+
+Networked opposed to institutional?
+
+Boundaty object. Slef-sabotage of leadership. Causo: MetaReciclagem e a Prefeitura de Porto Alegre. Quando mesmo, 2004?
+
+Tension x communication.
+
+Eric Raymond - start with an itch to scratch. Heroic genius. NO mention of maintenance (even less, care).
+
+Maintainers burnout!
+
+### Vision (?)
+
+I AM WORKING WITH people, groups and organisations interested in transforming second-hand materials TO create structures for the collective stewardship oof physical goods TO citizens, nonprofits and businesses SO THAT they can prevent the generation of waste.
+
+### Open Canvas
+
+[Here](../open/canvas.md)
+
+#### Problem
+
+Materials that could be reused are currently discarded and end up incinerated, recycled ("downcycled") or in landfills (or worse).
+
+#### Solution
+
+System for the collective stewardship of materials.
+
+#### Key Metrics
+
+Higher proportion of reuse / waste.
+
+#### UVP
+
+ - Reward people and organisations that reuse Materials
+ - Build a model of shared responsibility
+
+#### ~~User~~ Stakeholder Profiles
+
+ - Citizenship / households
+ - Professional repair
+ - Community repair
+ - Waste authorities
+ - ...
+
+#### ~~User~~ Stakeholder Channels
+
+ - Circular economy communities
+ - Environment communities
+ - Press
+ - Conferences
+  - Cities
+  - waste
+  - Sustainability / environment / ecology
+
+#### Resources Required
+
+#### Contributor Profiles
+
+#### Contributor channels
+
+
+### More notes
+
+Newsgroups / Mailing lists / IRC / Wiki. Gardeners.
+
+Google docs - different.
+
+A person coordinating.
+
+Telegram group. No community if there's no communication.
+
+Digital gardden. Personal knowledge system.
+
+Open research notebooks.
+
+### Post-its
+
+- Circularity
+- On Buen vivir: common ancestral futures. Where is your heritage from? Identification instead of identy - a process, not static.
+- Krenak BWO Luiza Prado: New worlds.
+- Knowledges. Cyprus.
+- Causos. Anedotas.
+- Personas: cliché. Maquina de preconceitos.
+- Mindwalk.
+- Dive inside oneself.
+- There was a time when we had the illusion that google was on our side (I have typed it already somewhere else in these notes. everything is editable, fortunately)
+- EZLN - mandar obedeciendo.
+- White men
 
 
 ### TODO
