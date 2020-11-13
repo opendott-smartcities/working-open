@@ -230,6 +230,8 @@ Higher proportion of reuse / waste.
 
 ### More notes
 
+ - [In the city](in-the-city.md)
+
 Newsgroups / Mailing lists / IRC / Wiki. Gardeners.
 
 Google docs - different.
