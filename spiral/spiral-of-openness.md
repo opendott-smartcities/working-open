@@ -1,6 +1,6 @@
 # A spiral of openness
 
-! **0.1.** This is the early version of a text I am preparing for the OpenDoTT blog, as part of our training on Internet Health and Open Leadership. It feeds from and interacts with other materials kept in [this repository](https://github.com/opendott-smartcities/working-open). This paragraph will probably be removed once the text is finished, but will remain in the commit history. Forever? Who knows...
+! **0.2.** This is the working version of a text I for the OpenDoTT blog, as part of our training on Internet Health and Open Leadership. It feeds from and interacts with other materials kept in [this repository](https://github.com/opendott-smartcities/working-open).
 
 After an unusual summer (wasn't it?), my second year at the [OpenDoTT project](opendott.org/) started with a change of gears. Not only have I started to engage with the local context of Berlin - a scenario radically different from Dundee in many aspects, in particular those related to [the reuse of second-hand materials](https://is.efeefe.me/opendott/focus) -, but the whole project has a different focus on this phase. Our core activities last year were centred on design research. We have created and conducted studies putting in practice that emphasis. From now on, though, the other fellows and I are expected to start prototyping on top of our previous findings. That will be accomplished by bringing together both technical explorations made possible by open source hardware and software, as well as open methodologies inspired by [Mozilla](https://foundation.mozilla.org/). We will still perform another round of fieldwork, incorporating these additional layers.
 
@@ -86,12 +86,15 @@ Generosity should arguably be at the core of leading open, post-scarcity initiat
 
 Some quick notes I made during that training week that should inspire future texts (or a future version of this one):
 
- - Difference is important in open projects. Not only diversity. Diversity is obviously important. But without the ability and space to express difference, to diverge, to chose not to cooperate, to doubt, to question the faith in expected shared goals, diversity may be empty.
+ - Difference is important in open projects. Not only diversity. Diversity is obviously important. But without the ability and space to express differences, to diverge, to chose not to cooperate, to doubt, to question the faith in expected shared goals, diversity may be empty.
  - What if the community is the very project, not something external to it?
- - How many gardeners does it take to regenerate a forest?
- - How many beings with unclear roles are needed to effect real change in the world? Can we go beyond the polarity of "project leader vs. collaborators"?
- - Institutional dynamics. Impossibility of truly open projects within academic boundaries.
+ - Instead of "project lead > contributors/community > users", I'll want my future projects to be organised recognising the existence of multiple stakeholders that may or not converge in concrete terms.
+ - Start an open project with malleable matter that presents itself differently to different people. Keep changing it, do not (ever) enclose what the project is. Keep re-writing its original myths.
+ - Based on the idea of a city as an open system with contradictory interests, how best to plan interventions?
+ - How many gardeners does it take to regenerate a forest? And how many beings with unclear roles are needed to effect real change in the world? Can we go beyond the polarity of "project leader vs. collaborators"?
+ - Institutional dynamics... Is it possible to develop truly open projects within academic boundaries.
+ - Measuring outputs interferes with the essence of what is done. Not necessarily the expected outcomes can be easily measured.
 
 ## P.S.
 
-This text is not finished. It will likely never be. It is loosely connected with the GitHub repository mentioned above, particularly the subfolder named "[spiral](https://github.com/opendott-smartcities/working-open/tree/main/spiral)", and a slide presentation available in [PDF format](https://github.com/opendott-smartcities/working-open/blob/main/spiral/spiral-of-openness.pdf).
+This text is not finished. It will likely never be - I just got tired of writing it for now. It is anyway loosely connected with the GitHub repository mentioned above, particularly the subfolder named "[spiral](https://github.com/opendott-smartcities/working-open/tree/main/spiral)", and a slide presentation available in [PDF format](https://github.com/opendott-smartcities/working-open/blob/main/spiral/spiral-of-openness.pdf). It is also tributary to almost two decades of conversations and shared experiences with lots of great people in Brazil and elsewhere. Let's keep the ball rolling, shall we?
