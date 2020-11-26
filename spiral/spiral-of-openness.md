@@ -4,6 +4,8 @@
 
 After an unusual summer (wasn't it?), my second year at the [OpenDoTT project](opendott.org/) started with a change of gears. Not only have I started to engage with the local context of Berlin - a scenario radically different from Dundee in many aspects, in particular those related to [the reuse of second-hand materials](https://is.efeefe.me/opendott/focus) -, but the whole project has a different focus on this phase. Our core activities last year were centred on design research. We have created and conducted studies putting in practice that emphasis. From now on, though, the other fellows and I are expected to start prototyping on top of our previous findings. That will be accomplished by bringing together both technical explorations made possible by open source hardware and software, as well as open methodologies inspired by [Mozilla](https://foundation.mozilla.org/). We will still perform another round of fieldwork, incorporating these additional layers.
 
+[![Image: Jossuha Théophile, Unsplash](jossuha-theophile-ZhVKeFCb6NE-unsplash.jpg)](https://unsplash.com/@nunchakouy)
+
 ## First axis: proto-tech
 
 I am not by far an expert on prototyping technologies. I have however an overall understanding of their potentialities and limitations. Some ideas on where they can be useful to make some of my [concept ideas](https://is.efeefe.me/concepts) more concrete and relatable are already emerging. I am considering for instance the creation of a machine that would recognise objects placed in front of its camera and display different kinds of information about them. Data on repairability, warranty, assistance shops, creative reuse and second-hand market, for example. The machine could be placed in public spaces, flea markets, repair shops, second-hand stores and the like. I'm looking forward to learning more about prototyping with the help of members of the OpenDoTT consortium, and eventually putting my hands and head to work on ideas like those.
@@ -27,7 +29,7 @@ It took me then a little longer to write about the theme. It is simply too big, 
 Right before we started the training on web health and open initiatives (in that very first morning, if I'm not mistaken), a message in the [nettime mailing list](https://nettime.org) caught my attention. Yes, I'm still a lurker at some of those e-mail list groups from times past. There was then this message, never replied to, mentioning a book review titled "[Why Are We in the West So Weird? A Theory](https://www.nytimes.com/2020/09/12/books/review/the-weirdest-people-in-the-world-joseph-henrich.html)". I probably won't read that book, but found amusing the acronym making reference to "Western, Educated, Industrialised, and from Rich and Democratic countries". Some weeks later I found another mention to WEIRD while (audio-) reading Kate Raworth's "[Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist](https://en.wikipedia.org/wiki/Doughnut_Economics:_Seven_Ways_to_Think_Like_a_21st-Century_Economist)" (no, I'm not a fan of that image - will comment on that later). WEIRD is apparently a way to acknowledge how much the current common sense is biased towards the imaginary common to people coming from that kind of background. With the risk of ruining a clever wordplay, I would contend a somewhat denser version, though:
 
 - Western / Northern;
-- White / Male;
+- White / Male / Cis;
 - Educated, or rather “taught” a worldview that reinforces this very bias as the only possible;
 - Industrialised, seizing largely on externalities and replacing nature for artifice;
 - Rich, often based on structural unbalance, primitive accumulation and/or war;
@@ -94,6 +96,10 @@ Some quick notes I made during that training week that should inspire future tex
  - How many gardeners does it take to regenerate a forest? And how many beings with unclear roles are needed to effect real change in the world? Can we go beyond the polarity of "project leader vs. collaborators"?
  - Institutional dynamics... Is it possible to develop truly open projects within academic boundaries.
  - Measuring outputs interferes with the essence of what is done. Not necessarily the expected outcomes can be easily measured.
+ - Risking getting the award of redundancy: there is no community without commonalities. There is no community without communication.
+ - Future discussions: openness, enclosure and individuation (alô [Novaes](https://independent.academia.edu/ThiagoNovaes)!), decolonising open source (oi, [Luiza](https://www.luiza-prado.com/)!), what else?
+ - Modes of participation and representation. Tales of a network that did not want to become an organisation (MetaReciclagem). Innovators from developing countries believing too much in their northerns disguises.
+ - I have to start [blogging](https://is.efeefe.me/opendott) again.
 
 ## P.S.
 
