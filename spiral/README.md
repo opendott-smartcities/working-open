@@ -1,5 +1,20 @@
 # Spiral #1
 
+__Berlin, 17.02.21__
+
+Updating this README file with a commented index of the folder contents.
+
+The exploratory process undertaken in this repository produced a text called [A spiral of openness](spiral-of-openness.md), reposted [here](https://is.efeefe.me/opendott/spiral-of-openness) and [there](https://opendott.org/posts/a-spiral-of-openness/).
+
+_Folder contents:_
+
+- [Non-linear notetaking](nonlinear.md).
+- Does a spiral have a [centre](centre.md)?
+- [Decolonize](decolonize.md) openness.
+- In the [Berlinning](in-the-city.md)...
+- [Science](science.md)?
+- [Open science in Ubatuba, Brazil](ubatuba.md)
+
 __Berlin, 20.10.20__
 
 My first note: I lost track of how many projects I have started with a couple loose paragraphs posted in the open and later heavily edited by myself and others. This very file may become another one of those. I start it after being through a training module on Internet Health and Open Leadership offered by the Mozilla Foundation as part of my (and of my colleagues) PhD at Northumbria University.
