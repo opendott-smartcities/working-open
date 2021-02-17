@@ -1,7 +1,8 @@
-Open / Common Science
+# What's science got to do with it?
 
-Ordinary
+- Open / Common Science
+- Ordinary science
+- Open Science notebooks
+- Knowledges (in plural)
 
-Open Science notebooks
-
-Knowledges/
+(each of these topics would require me to write a long text... I'll keep them here as a reminder)
